@@ -1,0 +1,1 @@
+# -KPI-Dictionary-Data-Quality-Contract
